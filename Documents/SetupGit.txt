@@ -1,0 +1,37 @@
+This document describes know how about the GitHub & links to Git Tuts
+
+We will use GitHub for collaboration of this project. 
+GIT is powerful source control tool & github provides cloud based free repo for opensource projects.
+
+First create your account on GIThub  https://github.com
+
+Setup your gitbash on your machine ( use link http://help.github.com/win-set-up-git/ )
+
+You can now create your own repo. 
+
+For this project I have created a repo at location https://github.com/rahulbagal/GAE-EXP 
+
+There are good tutorials on yout tube about github 
+
+GIT version control - overview part 1  -- > http://www.youtube.com/watch?v=74yphulj3uo  
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/74yphulj3uo" frameborder="0" allowfullscreen></iframe>
+
+GIT version control - overview part 2  -- > http://www.youtube.com/watch?v=TCFZHxoMUdE
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/TCFZHxoMUdE" frameborder="0" allowfullscreen></iframe>
+
+
+Setting up Repository on Github and Pushing First Project on GitHub Using Git --> http://www.youtube.com/watch?v=gAWiXbT599E 
+
+<iframe width="560" height="315" src="http://www.youtube.com/watch?v=gAWiXbT599E" frameborder="0" allowfullscreen></iframe>
+
+
+Some coolinks 
+http://git-scm.com/
+http://gitref.org/
+Full book http://progit.org/ 
+
+
+Python Training 
+http://marakana.com/techtv/python-fundamentals-screencast-tutorials.html
