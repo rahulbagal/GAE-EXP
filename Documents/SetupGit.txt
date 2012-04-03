@@ -15,16 +15,11 @@ There are good tutorials on yout tube about github
 
 GIT version control - overview part 1  -- > http://www.youtube.com/watch?v=74yphulj3uo  
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/74yphulj3uo" frameborder="0" allowfullscreen></iframe>
 
 GIT version control - overview part 2  -- > http://www.youtube.com/watch?v=TCFZHxoMUdE
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/TCFZHxoMUdE" frameborder="0" allowfullscreen></iframe>
-
-
 Setting up Repository on Github and Pushing First Project on GitHub Using Git --> http://www.youtube.com/watch?v=gAWiXbT599E 
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=gAWiXbT599E" frameborder="0" allowfullscreen></iframe>
 
 
 Some coolinks 
